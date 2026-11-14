@@ -16,8 +16,8 @@
 5. Financials (analytics)
 
 ## Repos
-- `ca-companion-docs` — product/business docs (connected to the CA Companion Claude project)
-- `ca-companion-app` — code
+- [`ca-companion-docs`](https://github.com/jyotibizp/ca-companion-docs) — product/business docs (connected to the CA Companion Claude project)
+- [`ca-companion-app`](https://github.com/jyotibizp/ca-companion-app) — code
 
 ## Status
 - OPEN: current MVP stage, target dates, CA pipeline count, seed round target.

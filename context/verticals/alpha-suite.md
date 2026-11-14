@@ -27,7 +27,7 @@ Classify where the market is:
 ## Options Signal Scout
 - NIFTY options setup scanner. Internal use only.
 - Stack: FastAPI + PostgreSQL + React, Zerodha Kite Connect for data.
-- Repos: `oscout`, `oscout-v2`.
+- Repos: [`oscout`](https://github.com/jyotibizp/oscout), [`oscout-v2`](https://github.com/jyotibizp/oscout-v2).
 
 ## Desks served
 - **Trading Desk** — swing/positional, stocks & futures.
