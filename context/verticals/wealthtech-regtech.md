@@ -9,5 +9,8 @@
 - [ ] Deal Intel
 - [ ] Cost Intel
 
+## Repos
+- OPEN: to be created.
+
 ## Status
 - OPEN: one-line definition, target user and sequence for each product.
