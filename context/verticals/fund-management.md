@@ -15,5 +15,8 @@
 ## Notes
 - PMS, AIF, broking and NBFC are regulated — track licence/registration steps as separate items with dates.
 
+## Repos
+- OPEN: to be created.
+
 ## Status
 - OPEN: sequence, capital requirements, regulatory timelines.
