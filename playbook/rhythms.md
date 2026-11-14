@@ -5,7 +5,6 @@
 2. **Top 3** — tied to a vertical and to `context/priorities.md`
 3. **Replies owed** — emails / follow-ups waiting on Pradeep
 4. **One risk or blocker** to watch
-5. Monday only: Eternal Legends upload check
 
 ## Weekly review — `weekly`
 1. Progress per vertical vs P1
@@ -21,5 +20,4 @@
 4. People to re-contact from `context/people.md`
 
 ## Weekly anchors
-- **Monday** — YouTube episode upload
 - OPEN: trading hours, deep-work blocks, meeting days

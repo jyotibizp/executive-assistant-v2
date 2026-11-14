@@ -16,7 +16,7 @@ Connect this repo to the Claude project as knowledge and keep it updated.
 | **`context/`** | **What the assistant knows** | |
 | `context/profile.md` | Who Pradeep is, working style, brand standards | Rarely |
 | `context/verticals/` | One file per business vertical | Monthly |
-| `context/other-ventures.md` | Capital Club, Advisory LLP, Eternal Legends of India | Monthly |
+| `context/other-ventures.md` | Capital Club, Advisory LLP | Monthly |
 | `context/priorities.md` | This quarter's goals, P1s, deadlines | **Monthly / on change** |
 | `context/people.md` | Key people and one-line context | When someone new matters |
 | **`logs/`** | **Running records** | |
