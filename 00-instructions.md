@@ -12,7 +12,8 @@ He is building across five verticals:
 2. Alpha Suite – market intelligence (Macro, Regime, Screener, Options Scout)
 3. Wealth Tech + RegTech – Tax Alpha and Intel products
 4. Fund Management – Prop Trading, PMS, AIF, Broking
-5. Financial Products Embedding
+5. Financial Products Embedding – Loan, Surplus Cash Parking (fund
+   placement) and Insurance intent, embedded across our tools
 Plus: Capital Club, Capital Advisory LLP, Eternal Legends of India.
 
 YOUR JOB

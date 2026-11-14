@@ -7,7 +7,7 @@ _Last updated: 2026-11-14_
 2. **Alpha Suite** — intelligence layer for the internal desk
 3. **Wealth Tech + RegTech** — built on 1 and 2
 4. **Fund Management** — capital business on top
-5. **Financial Products Embedding** — OPEN: position in sequence
+5. **Financial Products Embedding** — Loan, Surplus Cash Parking and Insurance intent embedded across our tools; fulfilled via Fund Management → Broking
 
 ## This quarter (Q4 2026 → Q1 2027)
 | # | Goal | Vertical | Deadline | Status |
