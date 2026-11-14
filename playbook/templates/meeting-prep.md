@@ -2,7 +2,7 @@
 
 **Meeting:** 
 **Date / time:** 
-**With:** (pull from `05-people.md` + email history)
+**With:** (pull from `context/people.md` + email history)
 
 ## Goal
 What must be true when this meeting ends?
@@ -25,5 +25,5 @@ What must be true when this meeting ends?
 
 ## Follow-up after
 - [ ] Send recap within 24h
-- [ ] Update `05-people.md`
-- [ ] Log any decision in `08-decisions-log.md`
+- [ ] Update `context/people.md`
+- [ ] Log any decision in `logs/decisions-log.md`
