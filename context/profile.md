@@ -20,4 +20,3 @@
 ## Tools in use
 - Claude projects + GitHub repos for context.
 - Zerodha Kite Connect (market data for Options Signal Scout).
-- Content pipeline: Suno (music), Google Flow (animation), Clipchamp (edit), YouTube.

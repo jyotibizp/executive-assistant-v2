@@ -16,7 +16,6 @@ _Last updated: 2026-11-14_
 | 2 | First N CAs onboarded (toward 100) | CA Suite | OPEN | |
 | 3 | Seed round deck + investor list | CA Suite | OPEN | |
 | 4 | Macro + Regime Tracker v1 | Alpha Suite | OPEN | |
-| 5 | Eternal Legends weekly Monday upload | Content | Ongoing | |
 
 ## Parked (not now)
 - Fund Management licences (PMS / AIF / NBFC)
