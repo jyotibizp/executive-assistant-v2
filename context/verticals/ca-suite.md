@@ -3,7 +3,6 @@
 **Product:** CA Companion — AI/chat-native, multi-client practice platform for CA firms.
 **Role in the group:** first revenue engine and distribution channel into SMEs (via CAs).
 
-## P1
 - [ ] Build MVP
 - [ ] Onboard 100 CAs
 - [ ] Raise seed round
