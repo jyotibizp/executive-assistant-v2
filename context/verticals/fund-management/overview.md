@@ -24,7 +24,7 @@
 - 10x target date: June 2030.
 - Prop desk partners: equal (₹1.25 Cr each of ₹5 Cr).
 - Entities (3): **Asset Management** (PMS, AIF); **Financial Services** (loan broking → later NBFC, insurance broking); **Securities** (stock broking).
-- Financial Services (loan, insurance, securities, NBFC) moved to its own vertical on 2026-11-18: [Vertical 6](../financial-services.md).
+- Financial Services (loan, insurance, securities, NBFC) moved to its own vertical on 2026-11-18: [Vertical 5](../financial-services.md).
 - PMS / AIF licences stay **parked** in `context/priorities.md` until their phase starts.
 
 ## Aggregate — capital by entity (indicative minimums)

@@ -1,6 +1,6 @@
-# Vertical 6 — Financial Services
+# Vertical 5 — Financial Services
 
-**Purpose:** regulated financial products business. Fulfils Vertical 5 (Financial Products Embedding) intents: Loan, Surplus Cash Parking, Insurance. Split out of Fund Management on 2026-11-18.
+**Purpose:** regulated financial products business. Go-to-market: embed Loan, Surplus Cash Parking and Insurance intent across our tools — see [Go-to-Market](financial-services/go-to-market.md). Split out of Fund Management on 2026-11-18.
 
 - [ ] Loan Broking
 - [ ] Fund Placement
@@ -37,7 +37,7 @@ Assumes no capital is shared across requirements (OPEN). Excludes fees, deposits
 - OPEN: to be created.
 
 ## Open questions
-- Fund Placement (surplus cash parking, Vertical 5): does it sit under securities, or drop?
+- Fund Placement (surplus cash parking, see Go-to-Market): does it sit under securities, or drop?
 - Can one Financial Services company hold IRDAI insurance broking and later an RBI NBFC licence? Both regulators may require a dedicated company. Check with CA/lawyer.
 - Securities: separate company, or inside Financial Services?
 - All figures are from secondary sources (Nov 2026); confirm against SEBI / RBI / IRDAI primary texts before filing.
