@@ -2,7 +2,7 @@
 
 **Purpose:** embed financial products across the tools we build. The tools spot when a user needs a loan, has spare cash to park, or needs insurance, and route that intent to a product.
 
-**Links:** intent comes from the tools (CA Suite, Alpha Suite, Wealth Tech + RegTech). Fulfilment goes through Fund Management → Broking (Loan Broking, Fund Placement, Insurance Broking).
+**Links:** intent comes from the tools (CA Suite, Alpha Suite, Wealth Tech + RegTech). Fulfilment goes through Fund Management → Financial Services (Loan Broking, Fund Placement, Insurance Broking).
 
 ## Intents
 | Intent | What it captures | Fulfilled by |
