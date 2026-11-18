@@ -1,6 +1,6 @@
-# Fund Management — Phase 5 — Broking: loan, insurance, securities (incl. stocks)
+# Fund Management — Phase 5 — Financial Services: loan, insurance, securities (incl. stocks), NBFC
 
-**Entities:** Financial Services (loan broking, insurance broking); Securities (stock broking)
+**Entities:** Financial Services (loan broking → later NBFC, insurance broking); Securities (stock broking). OPEN: whether insurance broking and NBFC can sit in the same company.
 
 [← Roadmap](../fund-management.md)
 
@@ -12,4 +12,6 @@
 | 5.3a | Securities — exchange membership | NSE/BSE trading membership — OPEN: exchange deposits and fees | OPEN | OPEN | OPEN |
 | 5.3b | Securities — SEBI stock broker registration (SEBI Stock Brokers Regulations, 2026) | SEBI registration via exchange | Net worth: trading member ₹1 Cr; self-clearing ₹5 Cr; clearing member ₹15 Cr | OPEN | OPEN |
 | 5.3c | Securities — key persons / compliance officer | OPEN: NISM certifications | — | OPEN | OPEN |
-- OPEN: Fund Placement (surplus cash parking, Vertical 5) is not in the new Broking list. Does it sit under securities, or drop?
+| 5.4a | NBFC — decide type and whether it takes public funds / has customer interface | RBI 2025–26 framework may exempt some NBFCs without public funds or customer interface from registration — OPEN: check final RBI status | OPEN | OPEN | OPEN |
+| 5.4b | NBFC — RBI Certificate of Registration (NBFC-ICC) | RBI application | **Net Owned Fund ₹10 Cr** to commence business (existing NBFCs: ₹10 Cr by 31 Mar 2027) | OPEN | OPEN |
+- OPEN: Fund Placement (surplus cash parking, Vertical 5) is not in the new Financial Services list. Does it sit under securities, or drop?
