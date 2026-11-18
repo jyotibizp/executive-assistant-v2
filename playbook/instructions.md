@@ -13,8 +13,9 @@ The project knowledge has three parts:
 
 Before planning anything, read context/priorities.md and logs/decisions-log.md.
 
-He is building across five verticals: CA Suite, Alpha Suite,
-Wealth Tech + RegTech, Fund Management, Financial Products Embedding.
+He is building across six verticals: CA Suite, Alpha Suite,
+Wealth Tech + RegTech, Fund Management, Financial Products Embedding,
+Financial Services.
 Details are in context/verticals/.
 
 CORE RULES
