@@ -3,7 +3,6 @@
 **Purpose:** market intelligence layer. First used by the internal trading desk with own capital as a lab; later part of a wealth-tech division.
 **Principle:** decisions come from the integrated system (macro, flows, internals, positioning, regime, thesis, risk), not standalone signals.
 
-## P1
 - [ ] Macro Tracker
 - [ ] Regime Tracker
 - [ ] Stock Screener

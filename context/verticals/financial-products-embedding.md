@@ -16,7 +16,6 @@
 - **Alpha Suite** — OPEN
 - **Wealth Tech + RegTech** — e.g. Tax Alpha, Cost Intel — OPEN
 
-## P1
 - [ ] Loan Intent
 - [ ] Surplus Cash Parking Intent (fund placement)
 - [ ] Insurance Intent

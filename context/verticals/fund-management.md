@@ -9,4 +9,4 @@
 | 5 | Broking: loan, insurance, securities | Stock broker ₹1–15 Cr net worth; insurance broker ₹75L capital | SEBI stock broker, IRDAI, lender tie-ups | OPEN | OPEN | [Details](fund-management/phase-5-broking.md) |
 | 6 | NBFC | NOF ₹10 Cr | RBI Certificate of Registration | OPEN | OPEN | [Details](fund-management/phase-6-nbfc.md) |
 
-Purpose, P1, notes, open questions and sources: [Overview](fund-management/overview.md)
+Purpose, items, notes, open questions and sources: [Overview](fund-management/overview.md)

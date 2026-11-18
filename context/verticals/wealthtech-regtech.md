@@ -2,7 +2,6 @@
 
 **Purpose:** intelligence products for wealth and compliance decisions. Builds on Alpha Suite and CA Suite data.
 
-## P1
 - [ ] Tax Alpha
 - [ ] Execution Intel
 - [ ] Corporate Intel

@@ -4,7 +4,6 @@
 
 **Purpose:** capital business. Uses Alpha Suite intelligence; links with Capital Advisory LLP.
 
-## P1
 - [ ] Prop Trading
 - [ ] PMS
 - [ ] AIF
@@ -33,7 +32,7 @@
 - Target date for ₹5 Cr (10x).
 - The 3 prop desk partners and their shares.
 - Which entity holds which licence (Capital Advisory LLP vs new companies).
-- P1 list above still shows NBFC and Fund Placement under Broking; the sequence treats NBFC as its own phase. Update P1 list?
+- The list above still shows NBFC and Fund Placement under Broking; the sequence treats NBFC as its own phase. Update the list?
 - All figures are from secondary sources (Nov 2026); confirm against SEBI / RBI / IRDAI primary texts before filing.
 
 ## Sources (secondary, checked 2026-11-18)
