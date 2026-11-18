@@ -11,6 +11,7 @@
   - Loan Broking
   - Fund Placement
   - Insurance Broking
+  - Securities / Stock Broking
   - NBFC
 
 ## Notes
