@@ -1,5 +1,7 @@
 # Fund Management — Phase 5 — Broking: loan, insurance, securities (incl. stocks)
 
+**Entities:** Financial Services (loan broking, insurance broking); Securities (stock broking)
+
 [← Roadmap](../fund-management.md)
 
 | # | Item | Licence / registration step | Capital rule | Target | Status |

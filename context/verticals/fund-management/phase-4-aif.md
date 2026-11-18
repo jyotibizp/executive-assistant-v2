@@ -1,5 +1,7 @@
 # Fund Management — Phase 4 — AIF (Category III fits a trading strategy — confirm)
 
+**Entity:** Asset Management
+
 [← Roadmap](../fund-management.md)
 
 | # | Item | Licence / registration step | Capital rule | Target | Status |
