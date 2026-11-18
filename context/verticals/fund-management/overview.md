@@ -37,7 +37,7 @@
 | Personal | 1 — 10x | None | ₹5 Cr (from ₹50L) | Jun 2030 |
 | Prop desk (entity OPEN) | 2 — Prop trading | OPEN: confirm none needed | ₹5 Cr (4 × ₹1.25 Cr) | H2 2030 |
 | Asset Management | 3 — PMS; 4 — AIF | SEBI PMS; SEBI AIF (Cat III) | PMS net worth ₹5 Cr + AIF manager stake ₹1 Cr (5% of ₹20 Cr min corpus) = **₹6 Cr** | OPEN |
-| Financial Services | 5 — loan, insurance; 6 — NBFC | Lender tie-ups; IRDAI direct broker; RBI NBFC CoR | Insurance broker ₹75L + NBFC NOF ₹10 Cr = **₹10.75 Cr** (loan broking OPEN) | OPEN |
+| Financial Services | 5 — loan, insurance, NBFC | Lender tie-ups; IRDAI direct broker; RBI NBFC CoR | Insurance broker ₹75L + NBFC NOF ₹10 Cr = **₹10.75 Cr** (loan broking OPEN) | OPEN |
 | Securities | 5 — stock broking | SEBI stock broker + exchange membership | ₹1 Cr (trading member) to ₹5 Cr (self-clearing); exchange deposits OPEN | OPEN |
 | **Total (excl. personal)** | | | **₹22.75 Cr** (with trading-member broking) to **₹26.75 Cr** (self-clearing) | |
 
