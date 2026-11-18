@@ -1,5 +1,7 @@
 # Fund Management — Phase 3 — PMS
 
+**Entity:** Asset Management
+
 [← Roadmap](../fund-management.md)
 
 | # | Item | Licence / registration step | Capital rule | Target | Status |

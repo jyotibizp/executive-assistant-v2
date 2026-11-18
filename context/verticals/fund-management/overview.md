@@ -26,12 +26,15 @@
 - Now: trading personal account with ₹50L.
 - Sequence (fixed by Pradeep, 2026-11-18): Personal capital 10x → Prop trading desk → PMS → AIF → Broking (loan, insurance, securities incl. stocks) → NBFC.
 - Prop desk: ₹5 Cr pooled from 4 people (incl. Pradeep). Target: sizable prop desk by H2 2030.
+- 10x target date: June 2030.
+- Prop desk partners: equal (₹1.25 Cr each of ₹5 Cr).
+- Entities (3): **Asset Management** (PMS, AIF); **Financial Services** (loan broking → later NBFC, insurance broking); **Securities** (stock broking).
 - PMS / AIF / NBFC licences stay **parked** in `context/priorities.md` until their phase starts.
 
 ## Open questions
-- Target date for ₹5 Cr (10x).
-- The 3 prop desk partners and their shares.
-- Which entity holds which licence (Capital Advisory LLP vs new companies).
+- Which entity holds the prop desk (Asset Management or its own)?
+- Can one Financial Services company hold IRDAI insurance broking and later an RBI NBFC licence? Both regulators may require a dedicated company. Check with CA/lawyer.
+- Role of Capital Advisory LLP in the 3-entity structure.
 - The list above still shows NBFC and Fund Placement under Broking; the sequence treats NBFC as its own phase. Update the list?
 - All figures are from secondary sources (Nov 2026); confirm against SEBI / RBI / IRDAI primary texts before filing.
 

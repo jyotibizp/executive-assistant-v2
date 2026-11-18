@@ -1,5 +1,7 @@
 # Fund Management — Phase 6 — NBFC
 
+**Entity:** Financial Services (loan broking company converts to NBFC). OPEN: whether insurance broking can stay in the same company.
+
 [← Roadmap](../fund-management.md)
 
 | # | Item | Licence / registration step | Capital rule | Target | Status |
