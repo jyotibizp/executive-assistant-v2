@@ -8,4 +8,4 @@
 | 4 | AIF (Cat III) | Asset Management | Corpus ₹20 Cr; manager stake 5% or ₹10 Cr, lower | SEBI AIF registration | OPEN | OPEN | [Details](fund-management/phase-4-aif.md) |
 
 Purpose, items, notes, open questions and sources: [Overview](fund-management/overview.md)
-Financial Services (loan, insurance, securities, NBFC) is now its own vertical: [Vertical 6](financial-services.md)
+Financial Services (loan, insurance, securities, NBFC) is now its own vertical: [Vertical 5](financial-services.md)
